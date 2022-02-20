@@ -1,7 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there!
 
-
-[![][telegram-badge]](https://t.me/weihanglo) [![][twitter-badge]](https://twitter.com/weihanglo) [![][linkedin-badge]](https://www.linkedin.com/in/weihanglo)
+[![][resume-badge]][resume] [![][telegram-badge]](https://t.me/weihanglo) [![][twitter-badge]](https://twitter.com/weihanglo) [![][linkedin-badge]](https://www.linkedin.com/in/weihanglo)
 
 I'm Weihang Lo, a software engineer from Taiwan and also a Rustacean in [Rust Taiwan] community. I love Rust, cycling and open source. Currently contribute to ["Cargo: The Rust package manager"] regularly and write articles for ["Rust Algorithm Club"] (in Chinese).
 
@@ -9,6 +8,8 @@ Things I code with: Rust, Kubernetes, Node.js, Python, web development, DevOps, 
 
 You can contact me by clicking badges above, or just [submit a new issue] directly 😀.
 
+[resume]: https://weihanglo.tw/weihanglo-resume.pdf
+[resume-badge]: https://img.shields.io/badge/Résumé-f48300?style=for-the-badge&logoColor=white&logo=rust
 [telegram-badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [twitter-badge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
