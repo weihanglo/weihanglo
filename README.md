@@ -2,9 +2,12 @@
 
 [![][resume-badge]][resume] [![][telegram-badge]](https://t.me/weihanglo) [![][mastodon-badge]](https://hachyderm.io/@weihanglo) [![][twitter-badge]](https://twitter.com/weihanglo) [![][linkedin-badge]](https://www.linkedin.com/in/weihanglo)
 
-I'm Weihang Lo, a software engineer from Taiwan and also a Rustacean in [Rust Taiwan] community. I love Rust, cycling and open source. Currently contribute to ["Cargo: The Rust package manager"] regularly and write articles for ["Rust Algorithm Club"] (in Chinese).
+Hello! I am Weihang Lo, a Rustacean that believes open source and open community would make the world a better place.
 
-Things I code with: Rust, Kubernetes, Node.js, Python, web development, DevOps, finding bugs.
+* Professional Rust developer 🦀.
+* Maintainer of [the Cargo project][cargo].
+* Active member and organizer of [the Rust Taiwan community][rust-tw].
+* Currently focus on build systems and tools development.
 
 You can contact me by clicking badges above, or just [submit a new issue] directly 😀.
 
@@ -14,9 +17,8 @@ You can contact me by clicking badges above, or just [submit a new issue] direct
 [twitter-badge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [mastodon-badge]: https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white
-[Rust Taiwan]: https://rust-lang.tw/
-["Cargo: The Rust package manager"]: https://github.com/rust-lang/cargo
-["Rust Algorithm Club"]: https://github.com/weihanglo/rust-algorithm-club
+[rust-tw]: https://rust-lang.tw/
+[cargo]: https://github.com/rust-lang/cargo
 [submit a new issue]: https://github.com/weihanglo/weihanglo/issues/new
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif)
